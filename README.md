@@ -1,2 +1,3 @@
-# wc_wallet
-wallet functions
+# Wallet
+
+Functions for the webcredits wallet
