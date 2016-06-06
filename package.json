@@ -1,6 +1,6 @@
 {
   "name": "wc_wallet",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "wallet server",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "q": "^1.4.1",
     "qpm_faucet": "^0.1.11",
     "qpm_queue": "0.0.3",
-    "qpm_ui": "0.0.19",
+    "qpm_ui": "0.0.25",
     "sequelize": "^3.23.2",
     "solidbot": "0.0.3",
     "vhost": "^3.0.2",
